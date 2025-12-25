@@ -17,10 +17,10 @@ module.exports = {
     const { threadID, messageID } = event;
 
     const ownerPics = [
-      'https://i.ibb.co/672Zf20L/99ea4edb30db.jpg',
-      'https://i.ibb.co/bRBZxk9v/20df2c060ec2.jpg',
-      'https://i.ibb.co/gMkf5Dmk/252782e1baf1.jpg',
-      'https://i.ibb.co/PspxZNzh/b247dec7d443.jpg'
+      'https://i.ibb.co/Cp13xBsR/b2edd4c03615.jpg',
+      '',
+      '',
+      ''
     ];
 
     const randomPic = ownerPics[Math.floor(Math.random() * ownerPics.length)];
@@ -30,16 +30,16 @@ module.exports = {
 ║   ✨ 𝐁𝐎𝐓 𝐎𝐖𝐍𝐄𝐑 𝐈𝐍𝐅𝐎 ✨   ║
 ╠═══════════════════════════╣
 ║                           ║
-║  👤 𝐍𝐚𝐦𝐞: 𝙺𝚊𝚎𝚕 𝙳𝚛𝚊𝚟𝚎𝚗𝚣     ║
+║  👤 𝐍𝐚𝐦𝐞: SARDAR RDX    ║
 ║                           ║
 ╠═══════════════════════════╣
 ║  📱 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐈𝐧𝐟𝐨:          ║
 ║                           ║
 ║  🌐 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤:              ║
-║  facebook.com/kaeldravenz ║
+║  facebook.com/SARDAR RDX ║
 ║                           ║
 ║  📲 𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩:              ║
-║  wa.me/923422413092       ║
+║  wa.me/923301068874       ║
 ║                           ║
 ╠═══════════════════════════╣
 ║  🤖 𝐁𝐨𝐭 𝐃𝐞𝐭𝐚𝐢𝐥𝐬:           ║
